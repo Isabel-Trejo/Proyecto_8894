@@ -1,3 +1,5 @@
 1. Crear una cuenta en github
 2. Crear un repositorio public
 3. Crear una llave
+4. Copiar y pegar la llave de en tu repositorio
+5. Clonar el repositorio remoto
