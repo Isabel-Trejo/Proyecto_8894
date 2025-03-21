@@ -1,0 +1,1 @@
+1. Abrimos el navegador y buscamos la pagina oficial de Git, procedemos a descargarlo segun el tipo de sistema operativo que tengas.
